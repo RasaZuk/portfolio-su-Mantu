@@ -175,7 +175,7 @@ body {
 }
 
 
-.last-line {
+.footer {
     display: flex;
     justify-content: space-between;
     margin: 4.5rem;
@@ -209,7 +209,7 @@ body {
     margin-top: 2rem;
 }
 
-.footer {
+.last-line {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
